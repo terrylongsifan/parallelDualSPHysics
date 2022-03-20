@@ -1,3 +1,3 @@
 # parallelDualSPHysics
 A parallel SPH framework.
-Once the article is successfully published, we will disclose our source code.
+Once the paper for this code is successfully published, we will upload the remaining open source resource files (code).
